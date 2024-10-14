@@ -1,0 +1,19 @@
+{
+    "title": "Favilances Maze",
+    "description": "Favilances is a community of developers, designers, and entrepreneurs who are passionate about creating innovative solutions to real-world problems.",
+    "keywords": "favilances, maze, community, developers, designers, entrepreneurs, innovation, problem-solving",
+    "author": "Favilances",
+    "version": "4.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/favilances/favilances.github.io",
+    "homepage": "https://favilances.github.io",
+    "x": "https://x.com/favilances",
+    "github": "https://github.com/favilances",
+    "youtube": "https://www.youtube.com/@favilances",
+    "instagram": "https://www.instagram.com/favilances",
+    "color": "#3ba55c",
+    "copyright": "Maze World Wide",
+    "icon": "https://i.hizliresim.com/ed4j8f6.png",
+    "resim": "https://i.hizliresim.com/8kq2ev5.png",
+    "port": 3000
+}
